@@ -6,5 +6,3 @@ Hi, I'm Naieeym. I'm a web developer and tech enthusiast who loves learning new 
 ### Skills & Experiance:
 :heavy_check_mark: WordPress <br> 
 :heavy_check_mark: HTML5,CSS3 <br>
-:heavy_check_mark:  <br>
-:heavy_check_mark: 
