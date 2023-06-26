@@ -2,5 +2,5 @@
 #### Web Developer 
 Hi, I'm Naieeym. I'm a web developer and tech enthusiast who loves learning new things and creating digital experiences. I have a passion for coding and problem-solving, allowing me to create websites, applications, and online tools. With my knowledge of HTML, CSS, JavaScript, and other programming languages, I can build projects from scratch or enhance existing ones. I love reading books about programming and design principles in my spare time.
 
-Skills: HTML / CSS /JS 
-https://github.githubassets.com/images/icons/emoji/unicode/2705.png 
+#### Skills & Experiance:
+:heavy_check_mark: WordPress 
